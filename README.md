@@ -17,9 +17,9 @@ and replicating the code using my coding practices. This markdown file was writt
 ### Tools & Platforms
 
 ### Use Cases
-- [x]  
+- [x] Trying out checked boxes
 - []
 - [] 
 
 ###### Footnotes
-[^1]: This is a test message
+[^1]: (https://medium.com/@bagusmurdyantoro1997/movie-recommender-system-building-smart-movie-recommendations-with-machine-learning-21bfbedb6f3d)
