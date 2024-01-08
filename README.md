@@ -8,18 +8,16 @@
 
 ### Intro
 
-My first ever GitHub repo. This is a simple movie recommender by learning the logic from the web. [^1]
-
-and replicating the code using my coding practices. This markdown file was written with the help of this
+My first ever GitHub repo. This is a simple movie recommender by learning the logic from the web [^1] and replicating the code using my coding practices. This markdown file was written with the help of this
 
 ### Purpose
 
 ### Tools & Platforms
 
 ### Use Cases
-- [x] Trying out checked boxes
-- []
-- [] 
+- [x] Develop and understanding of how a simple recommender works
+- [x] Exploring the concept of [TF-IDF] (#purpose)
+- [] Forcing Netflix to replace their actual recommender system with this one 😅
 
 ###### Footnotes
 [^1]: (https://medium.com/@bagusmurdyantoro1997/movie-recommender-system-building-smart-movie-recommendations-with-machine-learning-21bfbedb6f3d)
