@@ -1,4 +1,7 @@
 # movie-recommender-by-vibe
+
+<img src = "https://github.com/ViBe-68/movie-recommender-by-vibe/assets/65676824/aeca6e45-2627-4a42-a2a3-d0cd9cdcaca7" width = "200"/>
+
 ## Table of Contents
 ### [1. Intro](#intro)
 ### [2. Purpose](#purpose)
@@ -13,6 +16,7 @@ My first ever GitHub repo. This is a simple movie recommender by learning the lo
 ## Purpose
 
 ## Tools & Platforms
+
 
 
 ## Use Cases
