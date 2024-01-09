@@ -20,8 +20,6 @@ The purpose of this project was to simply understand the logic behind recommende
 + Python 
 + Visual Studio Code
 
-
-
 ## Use Cases
 - [x] Develop and understanding of how a simple recommender works
 - [x] Exploring the concept of [TF-IDF](#purpose)
@@ -29,5 +27,4 @@ The purpose of this project was to simply understand the logic behind recommende
 
 ##### Footnotes
 [^1]: https://medium.com/@bagusmurdyantoro1997/movie-recommender-system-building-smart-movie-recommendations-with-machine-learning-21bfbedb6f3d
-
 [^2]: https://github.com/im-luka/markdown-cheatsheet?tab=readme-ov-file#user-content-fnref-1-d6f3a5277617183e9a036d70978fd0c7
