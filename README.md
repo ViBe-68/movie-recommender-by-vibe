@@ -22,7 +22,7 @@ The purpose of this project was to simply understand the logic behind recommende
 
 ## Use Cases
 - [x] Develop and understanding of how a simple recommender works
-- [x] Exploring the concept of [TF-IDF](#purpose)
+- [x] Exploring the concept of Cosine Similiarity and TF-IDF
 - [ ] Force Netflix to replace their actual recommender system with this one 😅
 
 ##### Footnotes
