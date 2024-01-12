@@ -2,12 +2,6 @@
 
 <img src = "https://github.com/ViBe-68/movie-recommender-by-vibe/assets/65676824/aeca6e45-2627-4a42-a2a3-d0cd9cdcaca7" width = "200"/>
 
-## Table of Contents
-### [1. Intro](#intro)
-### [2. Purpose](#purpose)
-### [3. Tools & Platforms](#Tools-&-Platforms-Used)
-### [4. Use Cases](#Use-Cases)
----
 
 ## Intro
 This is a simple movie recommender by learning the logic from the web [^1] and replicating the code using my coding practices. This markdown file was written with the help of a markdown helper[^2].
@@ -21,11 +15,6 @@ The purpose of this project was to simply understand the base logic behind recom
     + Numpy
     + Sci-kit Learn
 + Visual Studio Code
-
-## Use Cases
-- [x] Develop and understanding of how a simple recommender works
-- [x] Exploring the concept of Cosine Similiarity and TF-IDF
-- [ ] Force Netflix to replace their actual recommender system with this one 😅
 
 ##### Footnotes
 [^1]: https://medium.com/@bagusmurdyantoro1997/movie-recommender-system-building-smart-movie-recommendations-with-machine-learning-21bfbedb6f3d
