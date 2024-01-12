@@ -10,11 +10,10 @@
 ---
 
 ## Intro
-
-My first ever GitHub repo. This is a simple movie recommender by learning the logic from the web [^1] and replicating the code using my coding practices. This markdown file was written with the help of [Luka Dušak](https://github.com/im-luka)'s markdown helper.[^2]
+This is a simple movie recommender by learning the logic from the web [^1] and replicating the code using my coding practices. This markdown file was written with the help of a markdown helper[^2].
 
 ## Purpose
-The purpose of this project was to simply understand the logic behind recommenders and the way they operate. The math behind them is called [**Cosine Similairity**](https://www.machinelearningplus.com/nlp/cosine-similarity/) & [**Text Frequency-Inverse Document Frequency (TF-IDF)**](https://medium.com/analytics-vidhya/understanding-tf-idf-in-nlp-4a28eebdee6a).
+The purpose of this project was to simply understand the base logic behind recommenders and the way they operate. The math behind them is called **Cosine Similairity**[^3] & **Text Frequency-Inverse Document Frequency (TF-IDF)**[^4].
 
 ## Tools & Platforms
 + Python 
@@ -31,3 +30,5 @@ The purpose of this project was to simply understand the logic behind recommende
 ##### Footnotes
 [^1]: https://medium.com/@bagusmurdyantoro1997/movie-recommender-system-building-smart-movie-recommendations-with-machine-learning-21bfbedb6f3d
 [^2]: https://github.com/im-luka/markdown-cheatsheet?tab=readme-ov-file#user-content-fnref-1-d6f3a5277617183e9a036d70978fd0c7
+[^3]: https://www.machinelearningplus.com/nlp/cosine-similarity/
+[^4]: https://medium.com/analytics-vidhya/understanding-tf-idf-in-nlp-4a28eebdee6a
